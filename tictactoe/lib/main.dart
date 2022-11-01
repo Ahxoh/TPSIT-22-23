@@ -217,7 +217,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   }
 
-  void _showDialog(String winner){      // will called at the end of condition of check winner method
+  void _showDialog(String winner){
 
     showDialog(
        barrierDismissible: false,
